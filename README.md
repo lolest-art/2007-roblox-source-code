@@ -4,9 +4,9 @@ A decompilation of [RBXGS (Roblox Grid Service) version 0.3.634.0](https://archi
 this is maked to build with modern MVSC tools!
 ## what build right now
 - [x] physics engine
-- [] render
-- [] datamodel
-- []whole app folder  
+- [ ] render
+- [ ] datamodel
+- [ ]whole app folder  
 
 Building:
 inside Client folder:
