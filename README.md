@@ -3,10 +3,10 @@ A decompilation of [RBXGS (Roblox Grid Service) version 0.3.634.0](https://archi
 
 this is maked to build with modern MVSC tools!
 what build right now:
-physics engine: yes
-render: no
-datamodel: never tested, todo
-whole app: never tested, todo
+physics engine - [x]
+render - []
+datamodel - []
+whole app folder: - []
 
 Building:
 inside Client folder:
