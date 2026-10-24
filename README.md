@@ -6,9 +6,9 @@ this is maked to build with modern MVSC tools!
 - [x] physics engine
 - [ ] render
 - [ ] datamodel
-- [ ]whole app folder  
+- [ ] whole app folder  
 
-Building:
+##Building using MVSC 2026(Visual studio build tools 2026):
 inside Client folder:
 cmake --build . --config Release --parallel
 when it build it should build rbx_engine.lib
