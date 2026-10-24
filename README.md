@@ -5,8 +5,8 @@ this is maked to build with modern MVSC tools!
 ## what build right now
 - [x] physics engine
 - [ ] render
-- [ ] datamodel
-- [ ] whole app folder  
+- [ ] datamodel (never tested, maybe build actually)
+- [ ] whole app folder ( never tested, maybe build actually )
 
 ## Building using MVSC 2026(Visual studio build tools 2026)
 ## inside Client folder:
