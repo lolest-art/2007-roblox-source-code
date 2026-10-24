@@ -12,3 +12,4 @@ Building:
 inside Client folder:
 cmake --build . --config Release --parallel
 when it build it should build rbx_engine.lib
+ONLY PHYSICS ENGINE BUILD RIGHT NOW!!!
