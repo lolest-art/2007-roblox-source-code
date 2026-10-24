@@ -19,6 +19,7 @@ when it build it should build rbx_engine.lib
 ## Report issues please
 
 
-## FAQ Read these before reporting issue:
+## FAQ 
+## Read these before reporting issue:
 ## crash after contact:
 ## fix set primitive Owner(p->setOwner()) to fix it
