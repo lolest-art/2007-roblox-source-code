@@ -232,7 +232,7 @@ void Body::setParent(Body* newParent)
 
 Body* Body::getWorldBody()
 {
-	static Body b = Body();
+	static Body b;
 	return &b;
 }
 
