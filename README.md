@@ -10,6 +10,7 @@ this is maked to build with modern MVSC tools!
 
 ## Building using MVSC 2026(Visual studio build tools 2026)
 ## inside Client folder:
+## cmake .
 ## cmake --build . --config Release --parallel
 
 when it build it should build rbx_engine.lib
